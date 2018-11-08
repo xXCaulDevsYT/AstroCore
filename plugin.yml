@@ -1,0 +1,6 @@
+name: AstroCore
+main: EmeraldMC\Core
+version: 1.0
+api: 4.0.0-ALPHA12
+author: EmeraldMC
+description: A Core for Astro Network!
